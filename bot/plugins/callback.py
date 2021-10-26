@@ -1615,7 +1615,7 @@ async def cb_about(bot, update: CallbackQuery):
                 (
                     "🔙 Back", callback_data="settings"
                 )
-        ],
+        ]
         [
             InlineKeyboardButton
                 (
