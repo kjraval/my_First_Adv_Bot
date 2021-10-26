@@ -1609,7 +1609,7 @@ async def cb_about(bot, update: CallbackQuery):
             InlineKeyboardButton
                 (
                     "MY DEV", url="https://t.me/R_Mvz"
-                ), in
+                )
                 
             InlineKeyboardButton
                 (
