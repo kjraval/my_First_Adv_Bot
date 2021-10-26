@@ -4,14 +4,20 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
- ANY ONE CAN USE ME IN THEIR GROUP ⭕FOR FILE LINKS⭕
-Just Add Me To Your Group And Contact OWNER [FREE SERVICE 😎]
+    START_TEXT = """<b>Hey {} WELCOME 🙏
 
-For More Details Click Help Button Below..
-<b>♕ 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 ♛</b> <a href="https://t.me/R_Mvz">GLOBAL_ENTERTAINMENT</a>
-</i>"""    
+<b>I'M SIMPLE BOT [NOT REALLY] 😉
+
+ ANY ONE CAN USE ME IN THEIR GROUP</b>
+
+ ⭕FOR SHARING OF FILES⭕
+Just Add Me To Your Group
+
+ And Contact OWNER <b>[FREE SERVICE 😎]</b>
+
+📎For More Details Click Help Button Below..📎
+<b>♕ 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 ♛</b><a href="https://t.me/R_Mvz">GLOBAL_ENTERTAINMENT</a>
+</b>"""    
     
     HELP_TEXT = """
 <b>How To Use Me!?</b>
