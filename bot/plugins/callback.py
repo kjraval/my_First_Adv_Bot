@@ -1605,23 +1605,42 @@ async def cb_about(bot, update: CallbackQuery):
     text+="""\n<b><i>Source Code:</i></b> <a href="https://t.me/harshsoni_008/8">Source</a>"""
 
     buttons = [
+
         [
+
             InlineKeyboardButton
+
                 (
-                    "MY DEV", url="https://t.me/R_Mvz"
-                )
+
+                    "My Dev ⚡", url="https://t.me/jintons"
+
+                ),
+
                 
+
             InlineKeyboardButton
+
                 (
+
                     "🔙 Back", callback_data="settings"
+
                 )
-        ]
+
+        ],
+
         [
+
             InlineKeyboardButton
+
                 (
+
                     "Close 🔐", callback_data="close"
+
                 )
+
         ]
+
+    ]
     ]
     
     reply_markup = InlineKeyboardMarkup(buttons)
