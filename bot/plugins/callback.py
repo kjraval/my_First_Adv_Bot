@@ -81,7 +81,7 @@ async def cb_navg(bot, update: CallbackQuery):
 
     if ((index_val + 1 )== max_pages) or ((index_val + 1) == len(results)): # Max Pages
         temp_results.append([
-            InlineKeyboardButton("⏪ Back", callback_data=f"navigate({index_val}|back|{query})")
+            InlineKeyboardButton("👈 GO BACK PAGE", callback_data=f"navigate({index_val}|back|{query})")
         ])
 
     elif int(index_val) == 0:
@@ -89,13 +89,13 @@ async def cb_navg(bot, update: CallbackQuery):
 
     else:
         temp_results.append([
-            InlineKeyboardButton("⏪ Back", callback_data=f"navigate({index_val}|back|{query})"),
-            InlineKeyboardButton("Next ⏩", callback_data=f"navigate({index_val}|next|{query})")
+            InlineKeyboardButton("👈GO BACK PAGE", callback_data=f"navigate({index_val}|back|{query})"),
+            InlineKeyboardButton("GO NEXT PAGE👉", callback_data=f"navigate({index_val}|next|{query})")
         ])
 
     if not int(index_val) == 0:    
         temp_results.append([
-            InlineKeyboardButton(f"🔰 Page {index_val + 1}/{len(results) if len(results) < max_pages else max_pages} 🔰", callback_data="ignore")
+            InlineKeyboardButton(f"📎PAGES {index_val + 1}/{len(results) if len(results) < max_pages else max_pages} 📎", callback_data="ignore")
         ])
     
     if show_invite and int(index_val) !=0 :
@@ -1639,12 +1639,12 @@ async def callback_data(bot, update: CallbackQuery):
 
     if query_data == "start":
         buttons = [[
-            InlineKeyboardButton('My Dev 👨‍🔬', url='https://t.me/jintons'),
-            InlineKeyboardButton('Source Code 🧾', url ='https://t.me/githubsoursecode')
+            InlineKeyboardButton('MY OWNER🤓', url='https://t.me/harshsoni_008'),
+            InlineKeyboardButton('HOW TO MAKE ME ??', url ='https://t.me/harshsoni_008/8')
         ],[
-            InlineKeyboardButton('Support 🛠', url='https://t.me/jns_bots')
+            InlineKeyboardButton('SUPPORT GROUP', url='https://t.me/REQUEST_MOviz')
         ],[
-            InlineKeyboardButton('Help ⚙', callback_data="help")
+            InlineKeyboardButton('NEED HELP?🤔', callback_data="help")
         ]]
     
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -1659,10 +1659,10 @@ async def callback_data(bot, update: CallbackQuery):
 
     elif query_data == "help":
         buttons = [[
-            InlineKeyboardButton('Home ⚡', callback_data='start'),
-            InlineKeyboardButton('About 🚩', callback_data='about')
+            InlineKeyboardButton('BACK TO MAIN ', callback_data='start'),
+            InlineKeyboardButton('ABOUT MEH👨‍🔧', callback_data='about')
         ],[
-            InlineKeyboardButton('Close 🔐', callback_data='close')
+            InlineKeyboardButton('CLOSE🤦', callback_data='close')
         ]]
     
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -1677,8 +1677,8 @@ async def callback_data(bot, update: CallbackQuery):
 
     elif query_data == "about": 
         buttons = [[
-            InlineKeyboardButton('Home ⚡', callback_data='start'),
-            InlineKeyboardButton('Close 🔐', callback_data='close')
+            InlineKeyboardButton('BACK TO MAIN ', callback_data='start'),
+            InlineKeyboardButton('Close 🤦', callback_data='close')
         ]]
         
         reply_markup = InlineKeyboardMarkup(buttons)
