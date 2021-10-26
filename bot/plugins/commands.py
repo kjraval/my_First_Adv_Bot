@@ -50,7 +50,7 @@ async def start(bot, update):
 
 TO GET FILES AND CHECK THIS BOT ⭕
 
-JOIN :-  <a href="https://t.me/REQUEST_MOviz"> 
+JOIN: </b> <a href="https://t.me/REQUEST_MOviz"> 🔥👉🅣🅗🅘🅢 🅒🅗🅐🅝🅝🅔🅛👈🔥</a> 
 
 🥰AND START AGAIN TO GET FILES 🥰
 
