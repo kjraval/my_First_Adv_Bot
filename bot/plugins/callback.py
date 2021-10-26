@@ -1641,7 +1641,7 @@ async def cb_about(bot, update: CallbackQuery):
         ]
 
     ]
-    ]
+
     
     reply_markup = InlineKeyboardMarkup(buttons)
     
