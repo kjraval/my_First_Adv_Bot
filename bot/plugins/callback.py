@@ -1612,7 +1612,7 @@ async def cb_about(bot, update: CallbackQuery):
 
                 (
 
-                    "My Dev ⚡", url="https://t.me/jintons"
+                    "My Dev🤓", url="https://t.me/R_Mvz"
 
                 ),
 
