@@ -142,7 +142,7 @@ async def cb_navg(bot, update: CallbackQuery):
     
     reply_markup = InlineKeyboardMarkup(temp_results)
     
-    text=f"<i>Found</i> <code>{leng}</code> <i>Results For Your Query:</i> <code>{query}</code>"
+    text=f"<i>Found</i> <code>{leng}</code> <i>Results For Your Query:</i> <a href="https://t.me/REQUEST_MOviz">{query}</a>"
         
     try:
         await update.message.edit(
@@ -1600,8 +1600,8 @@ async def cb_about(bot, update: CallbackQuery):
 
     text=f"<i><u>Bot's Status</u></i>\n"
     text+=f"\n<b><i>Bot's Uptime:</i></b> <code>{time_formatter(time.time() - start_uptime)}</code>\n"
-    text+=f"\n<b><i>Bot Funtion🤓:</i></b> <i>Auto Filter Files</i>\n"
-    text+=f"""\n<b><i> Support:</i></b> <a href="https://t.me/REQUEST_MOviz"> GROUP DISCUSSION</a>\n"""
+    text+=f"\n<b><i>Bot Funtion🤓:</i></b> <i>Auto Files provider</i>\n"
+    text+=f"""\n<b><i> Support:</i></b> <a href="https://t.me/REQUEST_MOvizz"> GROUP DISCUSSION</a>\n"""
     text+="""\n<b><i>Source Code:</i></b> <a href="https://t.me/harshsoni_008/8">Source</a>"""
 
     buttons = [
@@ -1661,7 +1661,7 @@ async def callback_data(bot, update: CallbackQuery):
             InlineKeyboardButton('MY OWNER🤓', url='https://t.me/harshsoni_008'),
             InlineKeyboardButton('HOW TO MAKE ME ??', url ='https://t.me/harshsoni_008/8')
         ],[
-            InlineKeyboardButton('SUPPORT GROUP', url='https://t.me/REQUEST_MOviz')
+            InlineKeyboardButton('SUPPORT GROUP', url='https://t.me/REQUEST_MOvizz')
         ],[
             InlineKeyboardButton('NEED HELP?🤔', callback_data="help")
         ]]
