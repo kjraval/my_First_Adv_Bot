@@ -34,7 +34,7 @@ async def start(bot, update):
 
             if user.status == "kicked":
 
-               await update.reply_text("🤭 Sorry Dude, You are **B A N N E D 🤣🤣🤣**")
+               await update.reply_text("🤭 Sorry Dude, You are **B A N N E D 🤣**")
 
                return
 
@@ -50,7 +50,7 @@ async def start(bot, update):
 
 TO GET FILES AND CHECK THIS BOT ⭕
 
-JOIN: </b> <a href="https://t.me/REQUEST_MOviz"> 🔥👉🅣🅗🅘🅢 🅒🅗🅐🅝🅝🅔🅛👈🔥</a> 
+JOIN: </b> <a href="https://t.me/REQUEST_MOvizz"> 🔥👉🅣🅗🅘🅢 🅒🅗🅐🅝🅝🅔🅛👈🔥</a> 
 
 🥰AND START AGAIN TO GET FILES 🥰
 
@@ -120,7 +120,7 @@ TeaM R_Mvz.....
 
                                 (
 
-                                    '🔥𝗝𝗢𝗜𝗡 𝗨𝗦 𝗡𝗢𝗪🔥', url="https://t.me/REQUEST_MOviz"
+                                    '🔥𝗝𝗢𝗜𝗡 𝗨𝗦 𝗡𝗢𝗪🔥', url="https://t.me/REQUEST_MOvizz"
 
                                 )
 
@@ -156,7 +156,7 @@ TeaM R_Mvz.....
 
                                 (
 
-                                    '🔥𝗝𝗢𝗜𝗡 𝗨𝗦 𝗡𝗢𝗪🔥', url="https://t.me/REQUEST_MOviz"
+                                    '🔥𝗝𝗢𝗜𝗡 𝗨𝗦 𝗡𝗢𝗪🔥', url="https://t.me/REQUEST_MOvizz"
 
                                 )
 
@@ -194,7 +194,7 @@ TeaM R_Mvz.....
 
                                 (
 
-                                    '🔥𝗝𝗢𝗜𝗡 𝗨𝗦 𝗡𝗢𝗪🔥', url="https://t.me/REQUEST_MOviz"
+                                    '🔥𝗝𝗢𝗜𝗡 𝗨𝗦 𝗡𝗢𝗪🔥', url="https://t.me/REQUEST_MOvizz"
 
                                 )
 
@@ -216,13 +216,13 @@ TeaM R_Mvz.....
 
     buttons = [[
 
-        InlineKeyboardButton('Developed By', url='https://t.me/REQUEST_MOviz'),
+        InlineKeyboardButton('Developed By', url='https://t.me/REQUEST_MOvizz'),
 
         InlineKeyboardButton('Source Code', url ='https://t.me/harshsoni_008/8')],                               
 
      [
 
-        InlineKeyboardButton('Support 24×7 ✅', url='https://t.me/REQUEST_M0viz_2')
+        InlineKeyboardButton('Support 24×7', url='https://t.me/REQUEST_M0viz_2')
 
     ],[
 
