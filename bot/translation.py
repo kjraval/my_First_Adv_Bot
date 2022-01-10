@@ -4,28 +4,29 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hey {} WELCOME 😀
+    START_TEXT = """<b>Hey {} WELCOME 😀</b>
 
-<b>I'M SIMPLE BOT PUBLIC 😉
+I'M SIMPLE BOT AF Bot
 
  ANY ONE CAN USE ME IN THEIR GROUP</b>
+FOR SHARING OF FILES
 
- ⭕FOR SHARING OF FILES⭕
-Just Add Me To Your Group
+Just Add Me To Your Group<b>[First Contact Bot Owner]</b>
 
- And Contact OWNER <b>[FREE SERVICE 😎]</b>
+📎For More Details Click Help Button Below....📎
 
-📎For More Details Click Help Button Below..📎
-<b>𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈</b><a href="https://t.me/R_Mvzz">𝐑𝐄𝐐𝐔𝐄𝐒𝐓_𝐌𝐯O𝐢𝐳z</a>
-</b>"""    
+<b>𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈</b><a href="https://t.me/R_Mvzz">𝐑𝐄𝐐𝐔𝐄𝐒𝐓_𝐌𝐯O𝐢𝐳z</a></b>
+
+"""    
+ 
     
     HELP_TEXT = """
 <b>How To Use Me!?</b>
 
 REALLY???
-JUST CONTACT OWNER 🤦 USE IS FREE 
-NO NEED TO PAY 🔥🔥
-<b>♕ 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 ♛</b> <a href="https://t.me/R_Mvzz">𝐑𝐄𝐐𝐔𝐄𝐒𝐓_𝐌𝐯O𝐢𝐳z</a>        
+FIRST CONTACT OWNER FOR MORE DETAILS
+NO NEED TO PAY[ FREE USE 💝 ]🔥🔥
+<b> 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 </b> <a href="https://t.me/R_Mvzz">𝐑𝐄𝐐𝐔𝐄𝐒𝐓_𝐌𝐯O𝐢𝐳™</a>        
 """
     
     ABOUT_TEXT = """
@@ -33,11 +34,4 @@ NO NEED TO PAY 🔥🔥
 
 ✅𝗖𝗛𝗔𝗡𝗡𝗘𝗟 : <a href="https://t.me/REQUEST_MOvizz">𝐑𝐄𝐐𝐔𝐄𝐒𝐓_𝐌𝐯O𝐢𝐳</a>
 
-👲𝗗𝗘𝗩𝗟𝗢𝗣𝗘𝗥 : <a href="https://t.me/harshsoni_008">UNKNOWN NUMBER😎</a>
-
-📜𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘 : <a href="https://www.python.org/">Python3</a>
-
-✨𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href="https://t.me/harshsoni_008/8">CLICK</a>
-
-📮𝗙𝗥𝗔𝗠𝗘𝗪𝗢𝗥𝗞 : <a href="https://t.me/R_Mvzz">CAN'T SAY🤓</a>
-"""
+👲𝗗𝗘𝗩𝗟𝗢𝗣𝗘𝗥 : <a href="https://t.me/harshsoni_008">UNKNOWN NUMBER😎</a>"""
