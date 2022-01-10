@@ -50,17 +50,17 @@ async def start(bot, update):
 
 TO GET FILES AND CHECK THIS BOT ⭕
 
-JOIN: </b> <a href="https://t.me/REQUEST_MOvizz"> 🔥👉🅣🅗🅘🅢 🅒🅗🅐🅝🅝🅔🅛👈🔥</a> 
+JOIN:</b> <a href="https://t.me/REQUEST_MOvizz"> 🔥OUR CHANNEL🔥</a> 
 
-🥰AND START AGAIN TO GET FILES 🥰
+AND CHECK AGAIN IN GROUP TO GET FILES
 
-TeaM R_Mvz.....
+TeaM @R_Mvzz.....
 
-👇🍿CHANNEL LINK🍿👇</b>""",
+👇CHANNEL LINK👇</b>""",
 
                 reply_markup=InlineKeyboardMarkup([
 
-                    [ InlineKeyboardButton(text="⚡⭕JOIN THIS CHANNEL⭕⚡️", url=f"https://t.me/{update_channel}")]
+                    [ InlineKeyboardButton(text="⚡⭕JOIN OUR CHANNEL⭕⚡️", url=f"https://t.me/{update_channel}")]
 
               ])
 
@@ -104,7 +104,7 @@ TeaM R_Mvz.....
 
                 document = file_id,
 
-                caption = caption,
+                caption = <b>caption</b>,
 
                 parse_mode="html",
 
@@ -142,7 +142,7 @@ TeaM R_Mvz.....
 
                 video = file_id,
 
-                caption = caption,
+                caption = <b>caption</b>,
 
                 parse_mode="html",
 
@@ -180,7 +180,7 @@ TeaM R_Mvz.....
 
                 audio = file_id,
 
-                caption = caption,
+                caption = <b>caption</b>,
 
                 parse_mode="html",
 
