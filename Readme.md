@@ -6,7 +6,6 @@
 
   <a href="https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2/stargazers">
 
-    <img src="https://img.shields.io/github/stars/CrazyBotsz/Adv-Auto-Filter-Bot-V2?style=social">
 
 
 
@@ -15,8 +14,6 @@
   
 
   <a href="https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2/fork">
-
-    <img src="https://img.shields.io/github/forks/CrazyBotsz/Adv-Auto-Filter-Bot-V2?label=Fork&style=social">
 
 
 
@@ -209,11 +206,4 @@ Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
 
 ## Credits
-
-
-
- - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
-
- - Thanks To SpEcHiDe For His Awesome [DeleteMessagesRoBot](https://github.com/SpEcHiDe/DeleteMessagesRoBot)
-
- - [Thanks To Me 👀](https://github.com/AlbertEinsteinTG)
+ - [Thanks To Me 👀](https://t.me/R_Mvzz)
