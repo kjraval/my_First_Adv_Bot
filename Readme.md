@@ -6,6 +6,7 @@
 
   <a href="https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2/stargazers">
 
+    <img src="https://img.shields.io/github/stars/CrazyBotsz/Adv-Auto-Filter-Bot-V2?style=social">
 
 
 
@@ -14,6 +15,8 @@
   
 
   <a href="https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2/fork">
+
+    <img src="https://img.shields.io/github/forks/CrazyBotsz/Adv-Auto-Filter-Bot-V2?label=Fork&style=social">
 
 
 
@@ -145,7 +148,7 @@ You can deploy this bot anywhere.
 
 <br>
 
-<a href="https://heroku.com/deploy?template=https://github.com/AlbertEinsteinTG/Adv-AF-V2-Deployer">
+<a href="https://heroku.com/deploy">
 
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 
@@ -206,4 +209,11 @@ Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
 
 ## Credits
- - [Thanks To Me 👀](https://t.me/R_Mvzz)
+
+
+
+ - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
+
+ - Thanks To SpEcHiDe For His Awesome [DeleteMessagesRoBot](https://github.com/SpEcHiDe/DeleteMessagesRoBot)
+
+ - [Thanks To Me 👀](https://github.com/AlbertEinsteinTG)
