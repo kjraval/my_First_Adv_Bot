@@ -104,7 +104,7 @@ TeaM @R_Mvzz.....
 
                 document = file_id,
 
-                caption = <b>caption</b>,
+                caption = caption,
 
                 parse_mode="html",
 
@@ -142,7 +142,7 @@ TeaM @R_Mvzz.....
 
                 video = file_id,
 
-                caption = <b>caption</b>,
+                caption = caption,
 
                 parse_mode="html",
 
@@ -180,7 +180,7 @@ TeaM @R_Mvzz.....
 
                 audio = file_id,
 
-                caption = <b>caption</b>,
+                caption = caption,
 
                 parse_mode="html",
 
