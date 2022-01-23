@@ -216,4 +216,4 @@ Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
  - Thanks To SpEcHiDe For His Awesome [DeleteMessagesRoBot](https://github.com/SpEcHiDe/DeleteMessagesRoBot)
 
- - [Thanks To Me 👀](https://github.com/AlbertEinsteinTG)
+ - [Thanks To Me 👀](https://github.com/SpEcHiDe)
