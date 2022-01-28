@@ -216,13 +216,13 @@ TeaM @R_Mvzz.....
 
     buttons = [[
 
-        InlineKeyboardButton('Developed By', url='https://t.me/REQUEST_MOvizz'),
+        InlineKeyboardButton('Developed By', url='https://t.me/R_Mvzz'),
 
         InlineKeyboardButton('Source Code', url ='https://t.me/harshsoni_008/8')],                               
 
      [
 
-        InlineKeyboardButton('Support 24×7', url='https://t.me/REQUEST_M0viz_2')
+        InlineKeyboardButton('Support 24×7', url='https://t.me/Movies_Web0')
 
     ],[
 
