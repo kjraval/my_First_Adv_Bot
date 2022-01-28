@@ -4,7 +4,7 @@
 
 <p align="center">
 
-  <a href="https://github.com/GetYourM0viz/Adv-Auto-Filter-Bot-V2/stargazers">
+  <a href
 
     <img src="https://te.legra.ph/file/acc59bcee31bd7334845a.jpg">
   </a>
