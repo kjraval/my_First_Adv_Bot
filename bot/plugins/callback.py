@@ -1601,7 +1601,7 @@ async def cb_about(bot, update: CallbackQuery):
     text=f"<i><u>Bot's Status</u></i>\n"
     text+=f"\n<b><i>Bot's Uptime:</i></b> <code>{time_formatter(time.time() - start_uptime)}</code>\n"
     text+=f"\n<b><i>Bot Funtion🤓:</i></b> <i>Auto Files provider</i>\n"
-    text+=f"""\n<b><i> Support:</i></b> <a href="https://t.me/REQUEST_MOvizz"> GROUP DISCUSSION</a>\n"""
+    text+=f"""\n<b><i> Support:</i></b> <a href="https://t.me/Movies_Web0"> GROUP DISCUSSION</a>\n"""
     text+="""\n<b><i>Source Code:</i></b> <a href="https://t.me/harshsoni_008/8">Source</a>"""
 
     buttons = [
@@ -1612,7 +1612,7 @@ async def cb_about(bot, update: CallbackQuery):
 
                 (
 
-                    "My Dev🤓", url="https://t.me/R_Mvzz"
+                    "My Dev🤓", url="https://telegram.dog/R_Mvzz"
 
                 ),
 
@@ -1657,7 +1657,7 @@ async def callback_data(bot, update: CallbackQuery):
     query_data = update.data
 
     if query_data == "start":
-        buttons = [[
+        buttons = [
             InlineKeyboardButton('MY OWNER🤓', url='https://t.me/harshsoni_008'),
             InlineKeyboardButton('HOW TO MAKE ME ??', url ='https://t.me/harshsoni_008/8')
         ],[
