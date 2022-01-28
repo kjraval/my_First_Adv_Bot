@@ -11,7 +11,7 @@ I'M SIMPLE BOT AF Bot
  ANY ONE CAN USE ME IN THEIR GROUP</b>
 FOR SHARING OF FILES
 
-Just Add Me To Your Group<b>[First Contact Bot Owner]</b>
+Just Add Me To Your Group And Contact <a href="https://t.me/harshsoni_008">BOT OWNER</a>"</b>
 
 📎For More Details Click Help Button Below....📎
 
@@ -22,13 +22,13 @@ Just Add Me To Your Group<b>[First Contact Bot Owner]</b>
     
     HELP_TEXT = """
 <b>How To Use Me!?</b>
-
+DM:- @Mr_Harsh_008
 support 
 <b> 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 </b> <a href="https://t.me/R_Mvzz">𝐑𝐄𝐐𝐔𝐄𝐒𝐓_𝐌𝐯O𝐢𝐳™</a>        
 """
     
     ABOUT_TEXT = """
-🤖𝗠𝗬 𝗡𝗔𝗠𝗘 : <a href="https://t.me/Ring_Master_003bot">Miss_Valentinaa</a>
+🤖𝗠𝗬 𝗡𝗔𝗠𝗘 : iss_Valentinaa
 
 ✅𝗖𝗛𝗔𝗡𝗡𝗘𝗟 : <a href="https://t.me/REQUEST_MOvizz">𝐑𝐄𝐐𝐔𝐄𝐒𝐓_𝐌𝐯O𝐢𝐳</a>
 
