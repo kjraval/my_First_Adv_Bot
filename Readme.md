@@ -4,10 +4,13 @@
 
 <p align="center">
 
-  <a href
+  <a href="https://github.com/GetYourM0viz/Adv-Auto-Filter-Bot-V2/stargazers">
 
-    <img src="https://te.legra.ph/file/acc59bcee31bd7334845a.jpg?=social">
+    <img src="https://te.legra.ph/file/acc59bcee31bd7334845a.jpg?style=social">
+
   </a>
+
+  
 
 </p>
 
