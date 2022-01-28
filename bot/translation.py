@@ -23,9 +23,7 @@ Just Add Me To Your Group<b>[First Contact Bot Owner]</b>
     HELP_TEXT = """
 <b>How To Use Me!?</b>
 
-REALLY???
-FIRST CONTACT OWNER FOR MORE DETAILS
-NO NEED TO PAY[ FREE USE 💝 ]🔥🔥
+support 
 <b> 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 </b> <a href="https://t.me/R_Mvzz">𝐑𝐄𝐐𝐔𝐄𝐒𝐓_𝐌𝐯O𝐢𝐳™</a>        
 """
     
