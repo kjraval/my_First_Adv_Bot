@@ -6,7 +6,7 @@
 
   <a href
 
-    <img src="https://te.legra.ph/file/acc59bcee31bd7334845a.jpg">
+    <img src="https://te.legra.ph/file/acc59bcee31bd7334845a.jpg?=social">
   </a>
 
 </p>
