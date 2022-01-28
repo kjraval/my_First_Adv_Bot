@@ -6,10 +6,7 @@
 
   <a href="https://github.com/GetYourM0viz/Adv-Auto-Filter-Bot-V2/stargazers">
 
-    <img src="https://te.legra.ph/file/acc59bcee31bd7334845a.jpg"></a>
-
-</p>
-
+    <img src="https://te.legra.ph/file/acc59bcee31bd7334845a.jpg"> </a> </p>
 
 
 __This Is Just An Simple Advance Auto Filter Bot Complete Rewritten Version Of [Adv-Filter-Bot](https://github.com/GetYourM0viz/Adv-Auto-Filter-Bot-V2)..__
