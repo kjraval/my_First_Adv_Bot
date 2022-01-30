@@ -2,9 +2,9 @@
 
 <p align="center">
 
-  <a href="https://github.com/GetYourM0viz/my_First_Adv_Bot/stargazers">
+  <a href= "https://github.com/GetYourM0viz/my_First_Adv_Bot/stargazers">
 
-    <img src="https://te.legra.ph/file/acc59bcee31bd7334845a.jpg"> </a>
+    <img src= "https://te.legra.ph/file/acc59bcee31bd7334845a.jpg"> </a>
 
 </p>
 
