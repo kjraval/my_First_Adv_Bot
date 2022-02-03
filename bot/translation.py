@@ -28,7 +28,7 @@ support
 """
     
     ABOUT_TEXT = """
-🤖𝗠𝗬 𝗡𝗔𝗠𝗘 : iss_Valentinaa
+🤖𝗠𝗬 𝗡𝗔𝗠𝗘 : Miss_Valentinaa
 
 ✅𝗖𝗛𝗔𝗡𝗡𝗘𝗟 : <a href="https://t.me/REQUEST_MOvizz">𝐑𝐄𝐐𝐔𝐄𝐒𝐓_𝐌𝐯O𝐢𝐳</a>
 
