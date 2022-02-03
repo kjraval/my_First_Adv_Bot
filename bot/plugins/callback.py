@@ -1602,7 +1602,7 @@ async def cb_about(bot, update: CallbackQuery):
     text+=f"\n<b><i>Bot's Uptime:</i></b> <code>{time_formatter(time.time() - start_uptime)}</code>\n"
     text+=f"\n<b><i>Bot Funtion🤓:</i></b> <i>Auto Files provider</i>\n"
     text+=f"""\n<b><i> Support:</i></b> <a href="https://t.me/Movies_Web0"> GROUP DISCUSSION</a>\n"""
-    text+="""\n<b><i>Source Code:</i></b> <a href="https://t.me/harshsoni_008/8">Source</a>"""
+    text+="""\n<b><i>HOW TO USE ME:</i></b> <a href="https://youtu.be/b7_vHlV5FgM">Watch Tutorial</a>"""
 
     buttons = [
 
@@ -1612,7 +1612,7 @@ async def cb_about(bot, update: CallbackQuery):
 
                 (
 
-                    "My Dev🤓", url="https://telegram.dog/R_Mvzz"
+                    "My Dev🤓", url="https://t.me/R_Mvzz"
 
                 ),
 
@@ -1659,7 +1659,7 @@ async def callback_data(bot, update: CallbackQuery):
     if query_data == "start":
         buttons = [[
             InlineKeyboardButton('MY OWNER🤓', url='https://t.me/harshsoni_008')
-            InlineKeyboardButton('SUPPORT GROUP', url='https://t.me/REQUEST_MOvizz')
+            InlineKeyboardButton('SUPPORT Channel', url='https://t.me/REQUEST_MOvizz')
         ],[
             InlineKeyboardButton('NEED HELP?🤔', callback_data="help")
         ]]
