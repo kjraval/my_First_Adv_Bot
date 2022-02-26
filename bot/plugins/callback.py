@@ -1658,10 +1658,19 @@ async def callback_data(bot, update: CallbackQuery):
 
     if query_data == "start":
         buttons = [[
-            InlineKeyboardButton('MY OWNER🤓', url='https://t.me/harshsoni_008')
-            InlineKeyboardButton('SUPPORT Channel', url='https://t.me/REQUEST_MOvizz')
+
+            InlineKeyboardButton('MY OWNER🤓', url='https://t.me/HarshSoni_008'),
+
+            InlineKeyboardButton('WATCH TUTORIAL 🧾', url ='https://youtu.be/b7_vHlV5FgM')
+
         ],[
-            InlineKeyboardButton('NEED HELP?🤔', callback_data="help")
+
+            InlineKeyboardButton('Support 🛠', url='https://t.me/REQUEST_MOvizz')
+
+        ],[
+
+            InlineKeyboardButton('Help ⚙', callback_data="help")
+
         ]]
     
         reply_markup = InlineKeyboardMarkup(buttons)
